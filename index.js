@@ -48,7 +48,7 @@ const COVERAGE_DATA = [
     title: "Indemnités de personne sans revenu d’emploi",
     summary: "Auparavant obligatoire, ces indemnités sont maintenant facultatives. Cette garantie prévoit le versement d’une indemnité hebdomadaire si l’assuré n’est pas admissible aux indemnités de remplacement de revenu ou n’est pas en mesure de mener une vie normale.",
     mandatory: "185 $ par semaine avec une période d’attente de quatre semaines. Payable pendant un maximum de deux ans (si sélectionnée).",
-    increased: "Possibilité d’augmenter le maximum hebdomadaire à 320 $.",
+    increased: "Aucune augmentation facultative offerte.",
     icon: "🎓",
     tip: "Fortement recommandée pour les étudiants, les retraités ou les parents au foyer qui n’ont pas de revenu traditionnel à protéger."
   },
